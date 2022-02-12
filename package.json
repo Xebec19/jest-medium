@@ -1,0 +1,29 @@
+{
+  "name": "jest-medium",
+  "version": "1.0.0",
+  "type": "commonjs",
+  "description": "repo for my medium article on jest",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xebec19/jest-medium.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Xebec19/jest-medium/issues"
+  },
+  "homepage": "https://github.com/Xebec19/jest-medium#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "jest": "^27.5.1",
+    "supertest": "^6.2.2"
+  }
+}
